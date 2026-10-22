@@ -1,8 +1,8 @@
-# MicMute — Privacy Policy
+# HushMic — Privacy Policy
 
-_Last updated: October 20, 2026_
+_Last updated: October 22, 2026_
 
-MicMute ("the app") is a Windows app that mutes and unmutes your microphones with a keyboard shortcut.
+HushMic ("the app") is a Windows app that mutes and unmutes your microphones with a keyboard shortcut.
 
 **What we collect:** nothing. The app does not collect, store, transmit or sell personal information. It has no account system, no analytics and no advertising, and it never connects to the internet.
 

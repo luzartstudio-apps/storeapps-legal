@@ -1,8 +1,8 @@
-# Prompter — Privacy Policy
+# LensPrompter — Privacy Policy
 
-_Last updated: October 20, 2026_
+_Last updated: October 22, 2026_
 
-Prompter ("the app") is a Windows teleprompter app.
+LensPrompter ("the app") is a Windows teleprompter app.
 
 **What we collect:** nothing. The app does not collect, store, transmit or sell personal information. It has no account system, no analytics and no advertising.
 

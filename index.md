@@ -3,10 +3,10 @@
 Privacy policies:
 
 - [VideoShrink](videoshrink-privacy)
-- [PhoneTransfer](phonetransfer-privacy)
-- [Prompter](prompter-privacy)
+- [PicBeam](phonetransfer-privacy)
+- [LensPrompter](prompter-privacy)
 - [MouseRemap](mouseremap-privacy)
-- [KeyCast](keycast-privacy)
-- [MicMute](micmute-privacy)
+- [KeyBubble](keycast-privacy)
+- [HushMic](micmute-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
