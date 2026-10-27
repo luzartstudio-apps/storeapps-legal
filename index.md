@@ -16,5 +16,7 @@ Privacy policies:
 - [StepTrail](steptrail-privacy)
 - [SubtitleCraft](subtitlestudio-privacy)
 - [Saywell](voicetype-privacy)
+- [MailTrove](mailarchive-privacy)
+- [MeshView](meshview-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
