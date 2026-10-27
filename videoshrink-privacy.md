@@ -1,8 +1,8 @@
-# VideoShrink — Privacy Policy
+# SnugClip — Privacy Policy
 
-_Last updated: October 20, 2026_
+_Last updated: October 27, 2026_
 
-VideoShrink ("the app") is a Windows app that compresses video files on your computer.
+SnugClip (formerly VideoShrink, "the app") is a Windows app that compresses video files on your computer.
 
 **What we collect:** nothing. The app does not collect, store, transmit or sell personal information. It has no account system, no analytics and no advertising.
 

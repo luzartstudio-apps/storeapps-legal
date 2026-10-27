@@ -2,7 +2,7 @@
 
 Privacy policies:
 
-- [VideoShrink](videoshrink-privacy)
+- [SnugClip](videoshrink-privacy)
 - [PicBeam](phonetransfer-privacy)
 - [LensPrompter](prompter-privacy)
 - [MouseRemap](mouseremap-privacy)
