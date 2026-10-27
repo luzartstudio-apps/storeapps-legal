@@ -8,5 +8,13 @@ Privacy policies:
 - [MouseRemap](mouseremap-privacy)
 - [KeyBubble](keycast-privacy)
 - [HushMic](micmute-privacy)
+- [ClearMatte](bgremove-privacy)
+- [Findwell](deepfind-privacy)
+- [PauseBreak](eyebreak-privacy)
+- [LayerSplit](layersplit-privacy)
+- [Minutewell](meetingnotes-privacy)
+- [StepTrail](steptrail-privacy)
+- [SubtitleCraft](subtitlestudio-privacy)
+- [Saywell](voicetype-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
