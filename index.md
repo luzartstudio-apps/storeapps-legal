@@ -22,5 +22,6 @@ Privacy policies:
 - [ImageShrink](imageshrink-privacy)
 - [CardTest](cardtest-privacy)
 - [VideoTrim](videotrim-privacy)
+- [WindowPin](windowpin-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
