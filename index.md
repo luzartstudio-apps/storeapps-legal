@@ -18,5 +18,9 @@ Privacy policies:
 - [Saywell](voicetype-privacy)
 - [MailTrove](mailarchive-privacy)
 - [MeshView](meshview-privacy)
+- [AudioLevel](audiolevel-privacy)
+- [ImageShrink](imageshrink-privacy)
+- [CardTest](cardtest-privacy)
+- [VideoTrim](videotrim-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
