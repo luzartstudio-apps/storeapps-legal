@@ -1,8 +1,8 @@
-# Twirlo — Privacy Policy
+# Twirlwell — Privacy Policy
 
 _Last updated: November 9, 2026_
 
-Twirlo ("the app") is a Windows app that spins a wheel to pick an entry from your list at random and splits lists into random groups.
+Twirlwell ("the app") is a Windows app that spins a wheel to pick an entry from your list at random and splits lists into random groups.
 
 **What we collect:** nothing. The app does not collect, store, transmit or sell personal information. It has no account system, no analytics and no advertising.
 
