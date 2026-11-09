@@ -31,5 +31,9 @@ Privacy policies:
 - [MusicPractice](musicpractice-privacy)
 - [ImageUpscale](imageupscale-privacy)
 - [SpinWheel](spinwheel-privacy)
+- [DebtPlan](debtplan-privacy)
+- [FolderLock](folderlock-privacy)
+- [SubTrack](subtrack-privacy)
+- [TimeSheet](timesheet-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
