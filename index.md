@@ -23,5 +23,13 @@ Privacy policies:
 - [CardTest](cardtest-privacy)
 - [VideoTrim](videotrim-privacy)
 - [WindowPin](windowpin-privacy)
+- [AuthCode](authcode-privacy)
+- [FontView](fontview-privacy)
+- [Checkbook](checkbook-privacy)
+- [FileShred](fileshred-privacy)
+- [ComicReader](comicreader-privacy)
+- [MusicPractice](musicpractice-privacy)
+- [ImageUpscale](imageupscale-privacy)
+- [SpinWheel](spinwheel-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
