@@ -35,5 +35,17 @@ Privacy policies:
 - [FolderLock](folderlock-privacy)
 - [SubTrack](subtrack-privacy)
 - [TimeSheet](timesheet-privacy)
+- [ClassTimer](classtimer-privacy)
+- [GanttPlan](ganttplan-privacy)
+- [InputTest](inputtest-privacy)
+- [JsonView](jsonview-privacy)
+- [MergeDoc](mergedoc-privacy)
+- [PhotoStamp](photostamp-privacy)
+- [RawCull](rawcull-privacy)
+- [RecipeCost](recipecost-privacy)
+- [ScreenTest](screentest-privacy)
+- [SoundBoard](soundboard-privacy)
+- [StitchView](stitchview-privacy)
+- [WorldClock](worldclock-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
