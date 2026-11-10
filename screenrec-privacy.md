@@ -2,7 +2,7 @@
 
 _Last updated: November 10, 2026_
 
-Tapewell ("the app") is a Windows app that records your screen — the full screen, one window or an area you choose — together with your PC's sound and your microphone, and saves the recording as an MP4 video on your PC.
+Tapewell ("the app") is a Windows app that records your screen — the full screen, one window or an area you choose — together with your PC's sound and your microphone, and saves the recording as an MP4 video on your PC. In "Audio only" mode it records only the sound (no screen) and saves an M4A audio file.
 
 **What we collect:** nothing. The app does not collect, store, transmit or sell personal information. It has no account system, no analytics and no advertising. We never receive your recordings, your screen contents or your files.
 
@@ -13,11 +13,11 @@ Tapewell ("the app") is a Windows app that records your screen — the full scre
 - **Mouse clicks** (Pro option "Highlight mouse clicks") — only while recording with this option turned on, the app reads where you click to draw a colored ring in the video. It never reads keystrokes and stores no click data.
 
 **What is stored, and where:**
-- **Your recordings** — MP4 files in the folder you choose (by default Videos\Tapewell). They stay on your PC. If you choose a folder that syncs to a cloud service (such as OneDrive), the app warns you that large videos will be uploaded by that service.
+- **Your recordings** — MP4 files (M4A for "Audio only") in the folder you choose (by default Videos\Tapewell). They stay on your PC. If you choose a folder that syncs to a cloud service (such as OneDrive), the app warns you that large videos will be uploaded by that service.
 - **App data** — settings, the list of recent recordings (file paths, length, size, date), recovery notes for recordings that are still in progress (file path, start time, video size, frame rate) and a small diagnostic log, stored in your Windows user profile (AppData). The log never contains file names, folder paths, window titles or audio device names. You can clear the recent list and recovery notes in Settings; this does not delete any video.
 - **A small marker** is added to each recording file (an NTFS alternate data stream named "Tapewell", and a tag inside finished MP4 files) so the app can recognize and recover its own recordings. It contains the app name and the time the recording started.
 
-**Crash recovery:** if the app closes unexpectedly while recording, the next time you open it, it repairs the unfinished MP4 file in place so it plays normally. It never deletes a video.
+**Crash recovery:** if the app closes unexpectedly while recording, the next time you open it, it repairs the unfinished MP4 or M4A file in place so it plays normally. It never deletes a video.
 
 **Network:** the app does not need an internet connection and does not connect to any online service of ours. Purchases of the optional "Pro" upgrade are handled entirely by the Microsoft Store under Microsoft's privacy statement (https://privacy.microsoft.com/privacystatement); we never see your payment details.
 
