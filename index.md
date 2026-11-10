@@ -51,5 +51,7 @@ Privacy policies:
 - [LanSpeed](lanspeed-privacy)
 - [SketchTimer](sketchtimer-privacy)
 - [NetWatch](netwatch-privacy)
+- [VietScribe](vietscribe-privacy)
+- [ScreenRec](screenrec-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
