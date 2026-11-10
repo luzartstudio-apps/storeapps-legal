@@ -47,5 +47,8 @@ Privacy policies:
 - [SoundBoard](soundboard-privacy)
 - [StitchView](stitchview-privacy)
 - [WorldClock](worldclock-privacy)
+- [FolderList](folderlist-privacy)
+- [LanSpeed](lanspeed-privacy)
+- [SketchTimer](sketchtimer-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
