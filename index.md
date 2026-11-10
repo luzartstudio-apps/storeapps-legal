@@ -50,5 +50,6 @@ Privacy policies:
 - [FolderList](folderlist-privacy)
 - [LanSpeed](lanspeed-privacy)
 - [SketchTimer](sketchtimer-privacy)
+- [NetWatch](netwatch-privacy)
 
 Contact: luzartstudio.apps.support@gmail.com
